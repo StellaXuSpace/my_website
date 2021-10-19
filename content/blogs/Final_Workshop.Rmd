@@ -31,7 +31,7 @@ library(rsample) # to split dataframe in training- & testing sets
 library(janitor) # clean_names()
 library(broom) # use broom:augment() to get tidy table with regression output, residuals, etc
 library(huxtable) # to get summary table of all models produced
-library(kableExtra) # for formatting tables
+# library(kableExtra) # for formatting tables
 library(moderndive) # for getting regression tables
 library(skimr) # for skim
 library(mosaic)

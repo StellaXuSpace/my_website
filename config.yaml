@@ -88,7 +88,7 @@ params:
       - image: project1_image.png
         subtitle: AirBnB Shanghai Analytics
         title: AirBnB Analytics
-        url: blogs/Final_Workshop.Rmd
+        url: blogs/Final_Workshop.html
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: London, UK
