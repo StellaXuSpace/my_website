@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Forty
+title: Portfolio Website for Stella Xu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,20 +8,20 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+      # A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      # AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Stellaaa
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: Lonson
+        country: UK
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: stellaxu098@gmail.com
         title: Email
     enable: yes
     phone:
@@ -47,16 +47,16 @@ params:
         url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/xu.stella.77/
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/StellaXuSpace
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/stella-xu-562309170/
   image: ''
   name: Your name
   navigation:
