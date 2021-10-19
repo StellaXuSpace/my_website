@@ -81,28 +81,28 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Biography
-        title: About me
+      - image: AboutMe.jpg
+        subtitle: :|
+        title: About Me
         url: blogs/aliquam
       - image: project1_image.png
         subtitle: AirBnB Shanghai Analytics
-        title: AirBnB Analytics
+        title: Data Analytics
         url: blogs/Final_Workshop.html
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
+      - image: london.jpg
+        subtitle: 51°30′26″N 00°07′39″W.
         title: London, UK
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
+      - image: beijing.jpg
+        subtitle: 39°54′N 116°24′E.
         title: Beijing, China
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
+      - image: toronto66.jpg
+        subtitle: 79° 20' 49.2540'' W.
         title: Toronto, Canada
         url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
+      - image: wuhan.jpg
+        subtitle: 30° 34' 59.9952'' N.
         title: Wuhan, China
         url: blogs/ipsum
   two:
