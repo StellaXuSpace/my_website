@@ -82,13 +82,13 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        subtitle: Biography
+        title: About me
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+      - image: project1_image.png
+        subtitle: AirBnB Shanghai Analytics
+        title: AirBnB Analytics
+        url: blogs/Final_Workshop
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
