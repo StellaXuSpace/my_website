@@ -88,22 +88,22 @@ params:
       - image: project1_image.png
         subtitle: AirBnB Shanghai Analytics
         title: AirBnB Analytics
-        url: blogs/Final_Workshop
+        url: blogs/Final_Workshop.Rmd
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: London, UK
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        title: Beijing, China
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        title: Toronto, Canada
         url: blogs/ipsum
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
-        title: Etiam
+        title: Wuhan, China
         url: blogs/ipsum
   two:
     buttonText: Get Started
