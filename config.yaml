@@ -6,9 +6,9 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: 
     subtitle: |-
-      Moon
+      Moyoonx
     title: This is Stella!
   blog: {}
   contact:
