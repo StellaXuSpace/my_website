@@ -3,13 +3,10 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: Growing up in a lovely family has molded me into a life-lover. I do appreciate everything happened in my life and always have faith in the unknown adventures ahead of me. 
 draft: false
-image: pic07.jpg
+image: wuhan.jpg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: stories about me
+title: Stories about me
 ---
