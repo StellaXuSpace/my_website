@@ -8,5 +8,5 @@ draft: false
 image: ootd.jpg
 keywords: ""
 slug: ootd
-title: OOTD Screenshots
+title: Shots
 ---

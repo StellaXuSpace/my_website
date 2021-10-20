@@ -7,6 +7,8 @@ description: Growing up in a lovely family has molded me into a life-lover. I do
 draft: false
 image: wuhan.jpg
 keywords: ""
-slug: stories about me
-title: Stories about me
+slug: me
+title: 
 ---
+
+Growing up in a lovely family has molded me into a life-lover. I do appreciate everything happened in my life and always have faith in the unknown adventures ahead of me. 

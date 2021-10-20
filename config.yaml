@@ -1,6 +1,6 @@
 baseURL: "https://stellaxu.netlify.app"
 languageCode: en-us
-title: Forty
+title: StellaSpace
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,20 +8,19 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Stella
+      Stellaaaaa
+    title: Hello world, this is Stella!
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London
+        country: UK
+        street: Regent's Park
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: stellaxu098@gmail.com
         title: Email
     enable: yes
     phone:
@@ -71,10 +70,6 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -84,7 +79,7 @@ params:
       - image: AboutMe.jpg
         subtitle: :|
         title: About Me
-        url: blogs/aliquam
+        url: blogs/recent
       - image: project1_image.png
         subtitle: AirBnB Shanghai Analytics
         title: Data Analytics
@@ -92,21 +87,21 @@ params:
       - image: london.jpg
         subtitle: 51°30′26″N 00°07′39″W.
         title: London, UK
-        url: blogs/magna
+        url: blogs/ootd
       - image: beijing.jpg
         subtitle: 39°54′N 116°24′E.
         title: Beijing, China
-        url: blogs/ipsum
+        url: blogs/bj
       - image: toronto66.jpg
         subtitle: 79° 20' 49.2540'' W.
         title: Toronto, Canada
-        url: blogs/ipsum
+        url: blogs/ctd
       - image: wuhan.jpg
         subtitle: 30° 34' 59.9952'' N.
         title: Wuhan, China
-        url: blogs/ipsum
+        url: blogs/me
   two:
-    buttonText: Get Started
+    buttonText: Click to see my blogs
     enable: yes
     subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
       \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque

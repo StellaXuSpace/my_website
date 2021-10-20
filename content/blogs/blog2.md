@@ -7,6 +7,6 @@ description: 想分享最近读到的一段话： "在这个秋天的七十天�
 draft: false
 image: recent.jpg
 keywords: ""
-slug: recent moments
+slug: recent
 title: Recent Moments...
 ---
